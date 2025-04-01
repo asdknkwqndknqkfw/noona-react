@@ -5,15 +5,15 @@ import Box from './component/Box'
 const choice = {
   rock: {
     name: 'rock',
-    img: 'src/imgs/rock.png'
+    img: 'https://m.media-amazon.com/images/I/61W8BVTF10L.jpg'
   },
   scissors: {
     name: 'scissors',
-    img: 'src/imgs/Scissors.png'
+    img: 'https://www.artnews.com/wp-content/uploads/2022/07/AdobeStock_507713455.jpeg?w=1800'
   },
   paper: {
     name: 'paper',
-    img: 'src/imgs/paper.jpg'
+    img: 'https://res.cloudinary.com/env-imgs/images/f_auto/shopimages/products/1200/white-card/.jpg'
   }
 }
 
