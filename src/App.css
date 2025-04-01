@@ -1,0 +1,18 @@
+.box {
+  border: 1px solid black;
+  width: 500px;
+  text-align: center;
+}
+
+.item-img {
+  width: 400px;
+  height: 300px;
+  justify-content: center;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 10px;
+}
